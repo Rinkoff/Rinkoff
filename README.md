@@ -6,10 +6,7 @@
  </p>
 
 <hr>
-<div style="display: flex;">
-    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karem-Mounir-Saad&show_icons=true&locale=en&layout=compact&theme=radical" alt="karemsd" /></p>
-    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Karem-Mounir-Saad&show_icons=true&locale=en&theme=radical" alt="karemsd" /></p>
-</div>
+<p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=-Rinkoff&show_icons=true&locale=en&layout=compact&theme=radical" alt="Rinkoff" /></p>
 
 
 <h3 align="center">🎥 Top YouTube Videos</h3>
