@@ -4,14 +4,14 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,vb,solidity,ruby,lua,rust" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust" />
   </a>
 </p>
 
-- Database
+- Database & Spreadsheets
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,excel,csv" />
   </a>
 </p>
 
