@@ -6,8 +6,7 @@
  </p>
 
 <hr>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinkoff&show_icons=true&locale=en&layout=compact&theme=radical" alt="Rinkoff" /></p>
-<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinkoff&show_icons=true&locale=en&layout=compact&theme=radical" alt="Rinkoff" /></p>
 
 <hr>
 <h3 align="center">🎥 Top YouTube Videos</h3>
