@@ -18,7 +18,7 @@
 - Libraries & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,django,flutter,nodejs,qt,selenium,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=selenium,qt,django,bootstrap,tailwind,react,nodejs,flutter" />
   </a>
 </p>
 
