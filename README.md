@@ -4,7 +4,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash" />
   </a>
 </p>
 
@@ -18,28 +18,28 @@
 - Libraries & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,qt,django,bootstrap,tailwind,react,nodejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=selenium,qt,django,bootstrap,tailwind,react,vite,nodejs,flutter" />
   </a>
 </p>
 
 - Tools & Platforms:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,bruno,vercel,figma,ai,ps," />
   </a>
 </p>
 
 - IDE:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,sublime,androidstudio,idea" />
   </a>
 </p>
 
 - OS:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arduino,raspberrypi" />
   </a>
 </p>
 
