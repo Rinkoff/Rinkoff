@@ -11,14 +11,14 @@
 - Database & Spreadsheets
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,excel,csv" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,excel,csv,sqlite" />
   </a>
 </p>
 
 - Libraries & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,django,flutter,nodejs,qt,selenium,tailwind,react" />
   </a>
 </p>
 
