@@ -81,8 +81,8 @@
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=JgVQbzXLMEQ"><b>Къде е по-трудно да се реализираш?</b></a><br/>
-<sub>💻 Интервю със C++ експерт • Apr 2024</sub>
+<a href="https://www.youtube.com/watch?v=JgVQbzXLMEQ"><b>Къде е по-трудно да се реализираш?  Интервю със C++ експерт</b></a><br/>
+<sub>🎤 Павел Стоянов • Apr 2024</sub>
 </td>
 </tr>
 </table>
