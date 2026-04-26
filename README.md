@@ -44,7 +44,7 @@
 </p>
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinkoff&show_icons=true&locale=en&layout=compact&theme=radical" alt="Rinkoff"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinkoff&show_icons=true&locale=en&layout=compact&theme=radical" alt="Rinkoff"/></p>
 
 
 <hr>
