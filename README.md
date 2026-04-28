@@ -1,6 +1,8 @@
 <hr>
 <h3 align="left">Tech Stack:</h3>
 
+![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs&theme=dark&perline=15)
+
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
