@@ -17,11 +17,10 @@
 </div>
 
 - Tools & Platforms:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,bruno,vercel,figma,ai,ps," />
-  </a>
-</p>
+  git,github,docker,postman,bruno,vercel
+<div align="left">
+  <img src="https://skill-icons-plus.vercel.app/api/icons?i=git,github,docker,postman,bruno,vercel&theme=dark&perline=15" />
+</div>
 
 
 <hr>
