@@ -3,7 +3,7 @@
 
 - Languages
 <p align="left">
-  ![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15)
+![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15)
 </p>
 - Database & Spreadsheets
 <p align="left">
