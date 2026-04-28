@@ -3,14 +3,12 @@
 
 - Languages
 <div align="left">
-  <img src="https://skill-icons-plus.vercel.app/api/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15" />
+  <img src="https://skill-icons-plus.vercel.app/api/icons?i=py,vb,html,css,js,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15" />
 </div>
 - Database & Spreadsheets
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,excel,csv,sqlite" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://skill-icons-plus.vercel.app/api/icons?i=mysql,sqlite,postgresql,firebase,excel,csv&theme=dark&perline=15" />
+</div>
 
 - Libraries & Frameworks
 <p align="left">
