@@ -1,3 +1,5 @@
+
+![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=mysql,sqlite,postgresql,firebase,excel,csv&theme=light&perline=15)
 <hr>
 <h3 align="left">Tech Stack:</h3>
 
