@@ -35,7 +35,7 @@
 
 
 <hr>
-<h3 align="center">🎥 Top YouTube Videos</h3>
+<h3 align="left">🎥 Top YouTube Videos</h3>
 
 <table align="center">
 <tr>
