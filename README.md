@@ -37,7 +37,7 @@
 <hr>
 <h3 align="left">🎥 Top YouTube Videos</h3>
 
-<table align="center">
+<table align="left">
 <tr>
 <td width="160px">
 <a href="https://www.youtube.com/watch?v=um2wV72beqI">
