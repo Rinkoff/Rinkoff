@@ -5,6 +5,7 @@
 <div align="left">
   <img src="https://skill-icons-plus.vercel.app/api/icons?i=py,vb,html,css,js,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15" />
 </div>
+
 - Database & Spreadsheets
 <div align="left">
   <img src="https://skill-icons-plus.vercel.app/api/icons?i=mysql,sqlite,postgresql,firebase,excel,csv&theme=dark&perline=15" />
