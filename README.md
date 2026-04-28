@@ -1,14 +1,8 @@
 <hr>
 <h3 align="left">Tech Stack:</h3>
 
-![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=javascript,typescript,react,nextjs,tailwindcss,nodejs&theme=dark&perline=15)
-
 - Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash" />
-  </a>
-</p>
+![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15)
 
 - Database & Spreadsheets
 <p align="left">
