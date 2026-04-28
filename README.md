@@ -3,29 +3,28 @@
 
 - Languages
 <div align="left">
-  <a href="https://skill-icons-plus.vercel.app/">
+  <a href="https://skill-icons-plus.vercel.app/" target="_blank">
     <img src="https://skill-icons-plus.vercel.app/api/icons?i=py,vb,html,css,js,dart,solidity,ruby&theme=dark&perline=15" />
   </a>
 </div>
 
 - Database & Spreadsheets
 <div align="left">
-  <a href="https://skill-icons-plus.vercel.app/">
+  <a href="https://skill-icons-plus.vercel.app/" target="_blank">
     <img src="https://skill-icons-plus.vercel.app/api/icons?i=mysql,sqlite,postgresql,firebase,excel,csv&theme=dark&perline=15" />
   </a>
 </div>
 
 - Libraries & Frameworks
 <div align="left">
-  <a href="https://skill-icons-plus.vercel.app/">
+  <a href="https://skill-icons-plus.vercel.app/" target="_blank">
     <img src="https://skill-icons-plus.vercel.app/api/icons?i=selenium,pandas,qt,django,bootstrap,tailwind,react,vite,nodejs,flutter&theme=dark&perline=15" />
   </a>
 </div>
 
-- Tools & Platforms:
-  git,github,docker,postman,bruno,vercel
+- Tools & Platforms
 <div align="left">
-  <a href="https://skill-icons-plus.vercel.app/">
+  <a href="https://skill-icons-plus.vercel.app/" target="_blank">
     <img src="https://skill-icons-plus.vercel.app/api/icons?i=git,github,docker,postman,bruno,vercel&theme=dark&perline=15" />
   </a>
 </div>
