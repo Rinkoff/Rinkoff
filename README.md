@@ -2,8 +2,9 @@
 <h3 align="left">Tech Stack:</h3>
 
 - Languages
-![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15)
-
+<p align="left">
+  ![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=py,html,css,js,vb,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15)
+</p>
 - Database & Spreadsheets
 <p align="left">
   <a href="https://skillicons.dev">
