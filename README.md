@@ -3,7 +3,7 @@
 
 - Languages
 <div align="left">
-  <img src="https://skill-icons-plus.vercel.app/api/icons?i=py,vb,html,css,js,dart,solidity,ruby,lua,rust,bash&theme=dark&perline=15" />
+  <img src="https://skill-icons-plus.vercel.app/api/icons?i=py,vb,html,css,js,dart,solidity,ruby&theme=dark&perline=15" />
 </div>
 
 - Database & Spreadsheets
