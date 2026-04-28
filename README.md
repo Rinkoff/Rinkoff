@@ -1,5 +1,3 @@
-
-![My Skills](https://skill-icons-plus.vercel.app/api/icons?i=mysql,sqlite,postgresql,firebase,excel,csv&theme=light&perline=15)
 <hr>
 <h3 align="left">Tech Stack:</h3>
 
@@ -14,11 +12,9 @@
 </div>
 
 - Libraries & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,qt,django,bootstrap,tailwind,react,vite,nodejs,flutter" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://skill-icons-plus.vercel.app/api/icons?i=selenium,pandas,qt,django,bootstrap,tailwind,react,vite,nodejs,flutter&theme=dark&perline=15" />
+</div>
 
 - Tools & Platforms:
 <p align="left">
