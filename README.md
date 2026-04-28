@@ -28,7 +28,12 @@
     <img src="https://skill-icons-plus.vercel.app/api/icons?i=git,github,docker,postman,bruno,vercel&theme=dark&perline=15" />
   </a>
 </div>
-https://skills.syvixor.com/api/icons?perline=15&i=git,github,docker,postman,bruno,vercel
+<div align="left">
+  <a href="https://skill-icons-plus.vercel.app/" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,docker,postman,bruno,vercel" />
+  </a>
+</div>
+
 
 <hr>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinkoff&show_icons=true&locale=en&layout=compact&theme=radical" alt="Rinkoff"/></p>
