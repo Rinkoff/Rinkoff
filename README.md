@@ -29,20 +29,6 @@
   </a>
 </p>
 
-- IDE:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,sublime,androidstudio,idea" />
-  </a>
-</p>
-
-- OS:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arduino,raspberrypi" />
-  </a>
-</p>
-
 
 <hr>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rinkoff&show_icons=true&locale=en&layout=compact&theme=radical" alt="Rinkoff"/></p>
